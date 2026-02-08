@@ -14,19 +14,28 @@ This is a Project Management web app built using the MERN stack (MongoDB, Expres
 
 2. Install dependencies for backend and frontend:
 cd server
-npm install
-cd ../client
+
 npm install
 
-3. Run the app:
+cd ../client
+
+npm install
+
+4. Run the app:
 cd server
-npm start
-cd ../client
+
 npm start
 
-4. Open in browser: http://localhost:3000
+cd ../client
+
+npm start
+
+5. Open in browser: http://localhost:3000
 
 Tech Stack
+
 Frontend: React, Ant Design
+
 Backend: Node.js, Express.js
+
 Database: MongoDB
