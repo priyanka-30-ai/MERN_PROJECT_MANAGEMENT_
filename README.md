@@ -9,23 +9,17 @@ This is a Project Management web app built using the MERN stack(MongoDB, Express
 - Project community chat for each project
 
 ## How to Run
-1. Clone the repository 
+
+Clone the repository, install dependencies, run the app, and open in browser:
+
+```bash
 git clone https://github.com/priyanka-30-ai/MERN_PROJECT_MANAGEMENT.git
-
-2. Install dependencies for backend and frontend
-cd server
+cd MERN_PROJECT_MANAGEMENT/server
 npm install
-
 cd ../client
 npm install
-
-3. Run the app
-cd server
+cd ../server
 npm start
-
 cd ../client
 npm start
-
-4. Open in browser
-
-http://localhost:3000
+Open in your browser: http://localhost:3000
